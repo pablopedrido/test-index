@@ -3,14 +3,16 @@ html{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
-    margin: 0px;
-}
-div{
-    margin: 0 18px 20px 20px;
+    margin-top: 50px;
 }
     p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 22px;
+}
+
+h1{
+    margin-bottom: 50px;
+    font-size: 48px;
 }
 a{
     font-style: normal;
@@ -19,4 +21,19 @@ a{
     color: black;
     font-weight: 600
     ;
+}
+.caption{
+    font-size: 16px;
+}
+
+.main{
+    width: 50%;
+    margin-left: 25%;
+    text-align: left;
+}
+
+.intro{
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
 }
